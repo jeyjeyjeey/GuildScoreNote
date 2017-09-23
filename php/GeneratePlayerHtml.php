@@ -27,10 +27,10 @@
       ',
       $stage_name,
       $player_scores[$stage_name],
-      $top_scores[$stage_name],
       $avg_scores[$stage_name],
-      $player_scores[$stage_name] - $top_scores[$stage_name],
-      $player_scores[$stage_name] - $avg_scores[$stage_name]
+      $top_scores[$stage_name],
+      $player_scores[$stage_name] - $avg_scores[$stage_name],
+      $player_scores[$stage_name] - $top_scores[$stage_name]
       );
     }
 

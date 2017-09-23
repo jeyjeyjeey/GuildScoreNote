@@ -229,8 +229,8 @@
           <tr>
             <th class="col-xs-2 col-ms-3 col-md-3 col-lg-3 th-main" rowspan="2">Stage</th>
             <th class="col-xs-2 col-ms-3 col-md-3 col-lg-3 th-main" rowspan="2">BestScore</th>
-            <th class="col-xs-2 col-ms-3 col-md-3 col-lg-3 th-rowspan-main">TopScore</th>
             <th class="col-xs-2 col-ms-3 col-md-3 col-lg-3 th-rowspan-main">AvgScore</th>
+            <th class="col-xs-2 col-ms-3 col-md-3 col-lg-3 th-rowspan-main">TopScore</th>
           </tr>
           <tr>
             <th class="col-xs-2 col-ms-3 col-md-3 col-lg-3 th-rowspan-sub">difference</th>
@@ -252,8 +252,8 @@
           <tr>
             <th class="col-xs-3 col-ms-3 col-md-3 col-lg-3 th-main" rowspan="2">Stage</th>
             <th class="col-xs-3 col-ms-3 col-md-3 col-lg-3 th-main" rowspan="2">BestScore</th>
-            <th class="col-xs-3 col-ms-3 col-md-3 col-lg-3 th-rowspan-main">TopScore</th>
             <th class="col-xs-3 col-ms-3 col-md-3 col-lg-3 th-rowspan-main">AvgScore</th>
+            <th class="col-xs-3 col-ms-3 col-md-3 col-lg-3 th-rowspan-main">TopScore</th>
           </tr>
           <tr>
             <th class="col-xs-3 col-ms-3 col-md-3 col-lg-3 th-rowspan-sub">difference</th>
